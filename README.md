@@ -1,4 +1,4 @@
-# Flask ML API
+# ImageClassify-API
 
 ## Install and run
 
@@ -67,4 +67,3 @@ Same as api, run:
 $ cd model/
 $ docker build -t model_test --progress=plain --target test .
 ```
-# ImageClassify
